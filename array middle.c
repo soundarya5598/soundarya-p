@@ -6,5 +6,5 @@ int main()
 int a[]={1,2,3,4,5,6,7};
 int n;
 n=sizeof(a);
-printf("the middle is",n/2)
+printf("the middle is",n/sizeof(int));
 }
