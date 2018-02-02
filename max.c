@@ -2,7 +2,7 @@
 
 int main()
 {
-	int n,i,a[20],max;
+	int n,i,a[10],max;
 
 	scanf("%d",&n);
 
