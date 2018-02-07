@@ -7,11 +7,11 @@ int main()
 	s=n*m;
 	if(s%2==0)
 	{
-		printf("yes");
+		printf("even");
 	}
 	else
 	{
-		printf("no");
+		printf("odd");
 	}
 	return 0;
 }
