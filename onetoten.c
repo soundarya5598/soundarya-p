@@ -1,8 +1,6 @@
 #include <stdio.h>
-int main(void) 
-
+int main() 
 {
-
 int n;
 scanf("%d",&n);
 switch(n)
@@ -35,9 +33,4 @@ switch(n)
 	printf("nine");
 	break;
 }
-
-	return 0;
-
-
-
 }
