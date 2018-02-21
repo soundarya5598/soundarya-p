@@ -3,7 +3,7 @@ int main()
 {
   int n,rem,b,sum=0;
   scanf("%d",&n);
-  while(n>0)
+  while(n!=0)
   {
     rem=n%10;
     n=n/10;
