@@ -4,7 +4,7 @@ int main()
 {
 int n,count=0;
 printf("enter the integer");
-scanf("%d",n);
+scanf("%d",&n);
 while(n!=0)
 {
 n=n/10;
