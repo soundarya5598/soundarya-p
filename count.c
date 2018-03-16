@@ -2,13 +2,13 @@
 #include<conio.h>
 int main()
 {
-int n;
+int n,count=0;
 printf("enter the integer");
 scanf("%d",n);
 while(n!=0)
 {
 n=n/10;
-count++
+count++;
 }
 printf("the number of digits%d",count);
 }
